@@ -68,7 +68,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-9 border-t border-gray-800 pt-7 text-center">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Tanjina Alam. All rights reserved.
+            © 2026 Tanjina Alam. All rights reserved.
           </p>
 
           <p className="mt-2 text-sm text-gray-500">
